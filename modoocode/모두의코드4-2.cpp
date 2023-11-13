@@ -9,6 +9,9 @@ class Point {
 
    public:
     Point(int x, int y) : x_(x), y_(y) {}
+
+    int getX() const { return x_; }
+    int getY() const { return y_; }
 };
 
 class Geometry {
@@ -16,11 +19,16 @@ class Geometry {
     Geometry() { num_points = 0; }
 
     void AddPoint(const Point& point) {
-        point_array[num_points++] = new Point(point.x, point.y);
+        point_array[num_points++] = new Point(point.getX(), point.getY());
     }
 
-    // 모든 점들 간의 거리를 출력하는 함수 입s니다.
-    void PrintDistance();
+    // 모든 점들 간의 거리를 출력하는 함수 입니다.
+    void PrintDistance() {
+        for (int i = 0; i < num_points; i++) {
+            std::cout << i << "번째 Point의 좌표는 (" << point_array[i]->getX()
+                      << ", " << point_array[i]->getY() << ")" << std::endl;
+        }
+    }
 
     // 모든 점들을 잇는 직선들 간의 교점의 수를 출력해주는 함수 입니다.
     // 참고적으로 임의의 두 점을 잇는 직선의 방정식을 f(x,y) = ax+by+c = 0
@@ -35,4 +43,9 @@ class Geometry {
     int num_points;
 };
 
-int main() { Point pt(10, 10); }
+int main() {
+    Point pt(10, 10);
+    Geometry geo;
+    geo.AddPoint(pt);
+    geo.PrintDistance();
+}
