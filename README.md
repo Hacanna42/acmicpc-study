@@ -4,7 +4,8 @@
 ### 최근 제출: <span style="color:red">11월 12일</span>
 ### 학습 노트 제출: <span style="color:red">7일</span>
 ### 현재 탈락 기부금: <span style="color:red">940,000원</span>
-### 현재 휴가 일수: <span style="color:red">2일</span>
+### 휴가 일수: <span style="color:royalblue">2일</span>
+
 
 
 ## 일론머스크의 한마디
