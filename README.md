@@ -6,7 +6,10 @@
 ## 현재 탈락 기부금: <span style="color:red">940,000원</span>
 ## 현재 휴가 일수: <span style="color:red">2일</span>
 
+
+
 - - -
+
 
 ### C++과 알고리즘 공부 기록용 레포지토리입니다.
 저의 코드는 아무렇게나 참고하셔도 좋습니다.
@@ -15,20 +18,22 @@
 2. 프레임워크보다는, 로우레벨의 중요성을 생각하게 되었습니다.
 3. 따라서 저를 아래와 같은 제도에 가두고 수련하려고 합니다.
 
+
 - - -
+
 
 # <span style="color:red">규칙</span>
 
 ### 1. 하루에 한 번, 생산적인 활동을 하고 노트로 정리합니다.
 ### 2. 최고급 평가사 일론머스크의 평가를 받습니다.
 
-![[master_teacher_elonmusk.png]]
+![master_teacher_elonmusk.png](https://github.com/Hacanna42/acmicpc-study/blob/main/STUDY%20LOG/footages/master_teacher_elonmusk.png)
 
 ### 3. 노트를 PUSH하지 않은 날이 휴가 일수를 넘어가면 탈락합니다.
 
 ### 4. 혹은 일론머스크가 [탈락] 선언을 하면 탈락합니다.
 
-![[elonmusk_youdie.png]]
+![elonmusk_youdie.png](https://github.com/Hacanna42/acmicpc-study/blob/main/STUDY%20LOG/footages/elonmusk_youdie.png)
 
 
 
@@ -56,7 +61,7 @@
 	만약 감점을 지속적으로 (3일) 당하면, 일론머스크의 철저한 개인적 판단에 따라
 	[탈락] 선언을 할 수 있습니다.
 
-![[elonmusk_score.png]]
+![elonmusk_score.png](https://github.com/Hacanna42/acmicpc-study/blob/main/STUDY%20LOG/footages/elonmusk_score.png)
 
 - - -
 
