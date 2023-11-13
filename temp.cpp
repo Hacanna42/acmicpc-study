@@ -1,8 +1,8 @@
-#include <iostream>
 #include <unistd.h>
 
-int main()
-{
+#include <iostream>
+
+int main() {
     std::cout << "hello";
     fflush(stdout);
     sleep(5);
