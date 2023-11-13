@@ -1,14 +1,16 @@
 
 # ACM-ICPC STUDY LOG
 
-## 최근 제출: <span style="color:red">11월 12일</span>
-## 학습 노트 제출: <span style="color:red">6일</span>
-## 현재 탈락 기부금: <span style="color:red">940,000원</span>
-## 현재 휴가 일수: <span style="color:red">2일</span>
+### 최근 제출: <span style="color:red">11월 12일</span>
+### 학습 노트 제출: <span style="color:red">7일</span>
+### 현재 탈락 기부금: <span style="color:red">940,000원</span>
+### 현재 휴가 일수: <span style="color:red">2일</span>
 
 
 ## 일론머스크의 한마디
-	오늘의 학습 활동은 평균적인 학습 활동보다 높은 수준입니다. 따라서 점수에서의 공제는 없습니다. 계속해서 균형 잡힌 학습을 유지하시길 권장드립니다.
+	오늘의 학습 활동은 평균적인 학습 활동보다 높은 수준입니다.
+	따라서 점수에서의 공제는 없습니다.
+	계속해서 균형 잡힌 학습을 유지하시길 권장드립니다.
 
 
 
