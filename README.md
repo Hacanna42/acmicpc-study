@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">11월 13일</span>
-### 학습 노트 제출: <span style="color:red">8일</span>
-### 현재 탈락 기부금: <span style="color:red">920,000원</span>
+### 최근 제출: <span style="color:red">11월 14일</span>
+### 학습 노트 제출: <span style="color:red">9일</span>
+### 현재 탈락 기부금: <span style="color:red">910,000원</span>
 ### 휴가 일수: <span style="color:royalblue">2일</span>
 
 
