@@ -1,16 +1,15 @@
 
 # ACM-ICPC STUDY LOG
 
-
-오늘 23년 11월 21일 휴가 1회 사용 예정.
-사유: 휴식
-
 ### 최근 제출: <span style="color:red">11월 20일</span>
 ### 학습 노트 제출: <span style="color:red">12일</span>
 ### 현재 탈락 기부금: <span style="color:red">880,000원</span>
-### 휴가 일수: <span style="color:royalblue">1일</span>
+### 휴가 일수: <span style="color:royalblue">0일</span>
 
 
+##### 지금까지의 휴가 사용:
+	2023년 11월 17일
+	2023년 11월 21일
 
 
 <br>
