@@ -16,6 +16,12 @@
 int main() {
     char first[4], second[4];
     std::cin >> second >> first;
+    int num1 = 0;
+    int num2 = 0;
+    for (int i = 0; i < 3; i++) {
+        num1 = num1 * 10 + (first[i] - '0');
+        num2 = num2 * 10 + (second[i] - '0');
+    }
 
     for (int i = 0; i < 3; i++) {
         int n1 = first[2 - i] - '0';
@@ -36,6 +42,6 @@ int main() {
         // 결과 출력
         std::cout << result << std::endl;
     }
-
+    std::cout << num1 * num2;
     return 0;
 }

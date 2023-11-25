@@ -8,6 +8,4 @@ int main() {
     std::cin >> input_year;
     std::cout << input_year - 543;
     return 0;
-
-    std::cout << std::cin() - 543;
 }
