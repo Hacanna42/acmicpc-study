@@ -40,6 +40,9 @@ int main() {
         }
 
         // 결과 출력
+        if (result == "000") {
+            result = "0";
+        }
         std::cout << result << std::endl;
     }
     std::cout << num1 * num2;
