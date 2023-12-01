@@ -1,9 +1,11 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">11월 30일</span>
-### 학습 노트 제출: <span style="color:red">20일</span>
-### 현재 탈락 기부금: <span style="color:red">800,000원</span>
+# <span style="color:yellow">HAPPY BIRTH DAY !!!!!!!!!!!</span>
+
+### 최근 제출: <span style="color:red">12월 01일</span>
+### 학습 노트 제출: <span style="color:red">21일</span>
+### 현재 탈락 기부금: <span style="color:red">790,000원</span>
 ### 휴가 일수: <span style="color:royalblue">1일</span>
 
 
@@ -15,9 +17,10 @@
 <br>
 
 ## 일론머스크의 한마디
-	오늘의 학습은 스프링 부트의 기본 개념과 핵심 요소에 대한 깊은 이해를 보여줍니다.
-	이론과 실습을 병행하며 실력을 쌓는 과정이 인상적입니다.
-	백준 문제를 통해 알고리즘 능력을 향상시키고, 프로그래밍 기초를 강화하는 데에도 성공적입니다.
+	오늘의 학습은 JPA 및 스프링 프레임워크의 핵심 개념을 효과적으로 이해하고,
+	의존성 주입을 통한 객체 지향 프로그래밍의 이점을 실현하는 데 중점을 두었습니다.
+	이론적 지식과 실습을 병행하는 접근 방식은 매우 효과적입니다.
+	백준 문제 해결을 통해 프로그래밍 능력을 강화하는 과정도 인상적입니다.
 - - -
 
 
