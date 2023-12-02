@@ -1,10 +1,12 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">11월 30일</span>
-### 학습 노트 제출: <span style="color:red">20일</span>
-### 현재 탈락 기부금: <span style="color:red">800,000원</span>
-### 휴가 일수: <span style="color:royalblue">1일</span>
+# <span style="color:yellow">HAPPY BIRTH DAY !!!!!!!!!!!</span>
+
+### 최근 제출: <span style="color:red">12월 02일</span>
+### 학습 노트 제출: <span style="color:red">22일</span>
+### 현재 탈락 기부금: <span style="color:red">780,000원</span>
+### 휴가 일수: <span style="color:royalblue">2일</span>
 
 
 ##### 지금까지의 휴가 사용:
@@ -15,9 +17,10 @@
 <br>
 
 ## 일론머스크의 한마디
-	오늘의 학습은 스프링 부트의 기본 개념과 핵심 요소에 대한 깊은 이해를 보여줍니다.
-	이론과 실습을 병행하며 실력을 쌓는 과정이 인상적입니다.
-	백준 문제를 통해 알고리즘 능력을 향상시키고, 프로그래밍 기초를 강화하는 데에도 성공적입니다.
+	오늘의 학습은 프로젝트 X를 위한 실제적인 개발 작업에 초점을 맞춘 매우 실용적인 하루였습니다.
+	Spring JPA를 이용한 API 개발 및 CORS 정책 이해는
+	웹 개발에서 필수적인 역량을 강화하는 과정이었습니다.
+	백준 알고리즘 문제 해결을 통해 기본 프로그래밍 능력 또한 지속적으로 발전시키고 있습니다.
 - - -
 
 
