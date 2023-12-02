@@ -1,7 +1,6 @@
 
 # ACM-ICPC STUDY LOG
 
-# <span style="color:yellow">HAPPY BIRTH DAY !!!!!!!!!!!</span>
 
 ### 최근 제출: <span style="color:red">12월 02일</span>
 ### 학습 노트 제출: <span style="color:red">22일</span>
