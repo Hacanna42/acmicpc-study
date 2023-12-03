@@ -10,7 +10,7 @@ int main() {
         for (int j = 0; j < i; j++) {
             std::cout << "*";
         }
-        std::cout << std::endl;
+        std::cout <<
     }
     return 0;
 }
