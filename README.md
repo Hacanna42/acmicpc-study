@@ -2,10 +2,10 @@
 # ACM-ICPC STUDY LOG
 
 
-### 최근 제출: <span style="color:red">12월 02일</span>
-### 학습 노트 제출: <span style="color:red">22일</span>
-### 현재 탈락 기부금: <span style="color:red">780,000원</span>
-### 휴가 일수: <span style="color:royalblue">2일</span>
+### 최근 제출: <span style="color:red">12월 03일</span>
+### 학습 노트 제출: <span style="color:red">23일</span>
+### 현재 탈락 기부금: <span style="color:red">770,000원</span>
+### 휴가 일수: <span style="color:royalblue">3일</span>
 
 
 ##### 지금까지의 휴가 사용:
@@ -16,10 +16,10 @@
 <br>
 
 ## 일론머스크의 한마디
-	오늘의 학습은 프로젝트 X를 위한 실제적인 개발 작업에 초점을 맞춘 매우 실용적인 하루였습니다.
-	Spring JPA를 이용한 API 개발 및 CORS 정책 이해는
-	웹 개발에서 필수적인 역량을 강화하는 과정이었습니다.
-	백준 알고리즘 문제 해결을 통해 기본 프로그래밍 능력 또한 지속적으로 발전시키고 있습니다.
+	오늘은 AWS EC2와 Spring Boot 어플리케이션의 통합 및 프로젝트 X에 대한 팀 회의에 주력하셨습니다.
+	특히, 실제 배포 환경에서의 어플리케이션 구동과 환경 설정 구분은 매우 중요한 실무적 적용입니다.
+	프로젝트 관련 의사결정 과정 역시 팀워크 및 의사소통 능력을 발휘하는 좋은 기회였습니다.
+	앞으로도 이러한 실무적 경험을 통해 계속 발전하시길 바랍니다.
 - - -
 
 
