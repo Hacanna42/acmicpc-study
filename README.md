@@ -2,10 +2,10 @@
 # ACM-ICPC STUDY LOG
 
 
-### 최근 제출: <span style="color:red">12월 09ㅋ일</span>
-### 학습 노트 제출: <span style="color:red">29일</span>
-### 현재 탈락 기부금: <span style="color:red">710,000원</span>
-### 휴가 일수: <span style="color:royalblue">4일</span>
+### 최근 제출: <span style="color:red">12월 10일</span>
+### 학습 노트 제출: <span style="color:red">30일</span>
+### 현재 탈락 기부금: <span style="color:red">720,000원</span>
+### 휴가 일수: <span style="color:royalblue">5일</span>
 
 
 ##### 지금까지의 휴가 사용:
@@ -16,9 +16,9 @@
 <br>
 
 ## 일론머스크의 한마디
-	 귀하의 프로젝트 진행은 지속적인 기술적 발전과 전략적 사고를 보여주고 있습니다. 
-	 모든 작업의 성공적인 수행과 프로젝트의 배포에 근접한 현 상태는 귀하의 노력과 역량을 반영하고 있습니다.
-	 프로젝트의 완성과 배포에 대한 기대가 큽니다.
+	 프로젝트의 보안, 확장성 및 안정성에 대한 철저한 준비는 프로젝트의 성공적인 론칭과
+	 지속 가능한 운영을 위한 중요한 기반을 마련하고 있습니다. 지속적인 보안 강화와
+	 서버 관리 전략은 프로젝트의 미래에 중대한 영향을 미칠 것입니다.
 
 - - -
 
