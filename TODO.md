@@ -9,6 +9,7 @@
 - [ ] 편지지 placeHolder 작성
 - [ ] 편지 작성 화면에서 편지 테두리 footage 로딩 느린 거 고치기
 - [ ] Clipboard API 사용해서 클립보드 접근
+- [ ] 모바일 기기에서의 폰트 적용 이슈 확인 (편지함 화면 폰트 적용 안됨)
 
 <span style="color:royalblue"><strong>BackEnd</strong></span>
 - [ ] -
