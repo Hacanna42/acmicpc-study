@@ -1,18 +1,30 @@
-// 백준: A+B - 3
-// https://www.acmicpc.net/problem/10950
-// 2023-11-20
+// temp
 
 #include <iostream>
-int main() {
-    int n = 0;
-    int a = 0;
-    int b = 0;
-    std::string buffer;
-    std::cin >> n;
-    for (int i = 0; i < n; i++) {
-        std::cin >> a >> b;
-        buffer += std::to_string(a + b);
-        buffer += "\n";
+#include <string>
+
+using namespace std;
+
+void findAlphabetPositions(const string& word) {
+    int positions[26];
+    fill_n(positions, 26, -1);
+
+    for (int i = 0; i < word.length(); ++i) {
+        int index = word[i] - 'a';
+        if (positions[index] == -1) {
+            positions[index] = i;
+        }
     }
-    std::cout << buffer;
+
+    for (int i = 0; i < 26; i++) {
+        cout << positions[i] << " ";
+    }
+}
+
+int main() {
+    string word;
+    cin >> word;
+    findAlphabetPositions(word);
+
+    return 0;
 }
