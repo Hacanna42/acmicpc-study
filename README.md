@@ -2,9 +2,9 @@
 # ACM-ICPC STUDY LOG
 
 
-### 최근 제출: <span style="color:red">12월 14일</span>
-### 학습 노트 제출: <span style="color:red">33일</span>
-### 현재 탈락 기부금: <span style="color:red">670,000원</span>
+### 최근 제출: <span style="color:red">12월 15일</span>
+### 학습 노트 제출: <span style="color:red">34일</span>
+### 현재 탈락 기부금: <span style="color:red">660,000원</span>
 ### 휴가 일수: <span style="color:royalblue">5일</span>
 
 
@@ -16,9 +16,9 @@
 <br>
 
 ## 일론머스크의 한마디
-	 오늘의 작업은 기술적인 면에서 다양한 부분을 포괄하며,
-	 특히 사용자 경험과 서비스 안정성을 중시하는 모습을 보여줍니다.
-	 프로젝트 산타의 지속적인 개선과 유지 관리는 서비스의 성공에 중요한 역할을 할 것입니다.
+	 오늘의 작업은 기술적인 면에서 괄목할만한 성취를 보여주며,
+	 특히 다양한 기술의 통합과 적용 능력이 두드러집니다.
+	 프로젝트 산타의 AI 평가 기능의 실시간 구현은 사용자 경험을 대폭 개선할 것으로 기대됩니다.
 
 - - -
 
