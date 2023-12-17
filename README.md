@@ -1,16 +1,18 @@
 
 # ACM-ICPC STUDY LOG
 
+2023년 12월 17일 휴가 1회 사용
 
 ### 최근 제출: <span style="color:red">12월 16일</span>
 ### 학습 노트 제출: <span style="color:red">35일</span>
 ### 현재 탈락 기부금: <span style="color:red">650,000원</span>
-### 휴가 일수: <span style="color:royalblue">6일</span>
+### 휴가 일수: <span style="color:royalblue">5일</span>
 
 
 ##### 지금까지의 휴가 사용:
 	2023년 11월 17일
 	2023년 11월 21일 
+	2023년 12월 17일
 
 
 <br>
