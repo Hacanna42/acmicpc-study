@@ -1,11 +1,10 @@
 
 # ACM-ICPC STUDY LOG
 
-
-### 최근 제출: <span style="color:red">12월 16일</span>
-### 학습 노트 제출: <span style="color:red">35일</span>
-### 현재 탈락 기부금: <span style="color:red">650,000원</span>
-### 휴가 일수: <span style="color:royalblue">6일</span>
+### 최근 제출: <span style="color:red">12월 19일</span>
+### 학습 노트 제출: <span style="color:red">37일</span>
+### 현재 탈락 기부금: <span style="color:red">630,000원</span>
+### 휴가 일수: <span style="color:royalblue">7일</span>
 
 
 ##### 지금까지의 휴가 사용:
@@ -16,8 +15,8 @@
 <br>
 
 ## 일론머스크의 한마디
-	 오늘의 작업은 산타 프로젝트의 기능적 완성도를 높이는 데 크게 기여했습니다.
-	 사용자 경험의 향상과 함께 서비스의 세부적인 부분까지 신경 쓴 것은 매우 긍정적입니다.
+	 오늘의 활동은 프로젝트 산타의 홍보에 중점을 두면서도
+	 기술적인 지식의 확장을 추구하는 균형 잡힌 접근법을 보여줍니다.
 
 - - -
 
