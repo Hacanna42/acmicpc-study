@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">12월 18일</span>
-### 학습 노트 제출: <span style="color:red">36일</span>
-### 현재 탈락 기부금: <span style="color:red">640,000원</span>
+### 최근 제출: <span style="color:red">12월 19일</span>
+### 학습 노트 제출: <span style="color:red">37일</span>
+### 현재 탈락 기부금: <span style="color:red">630,000원</span>
 ### 휴가 일수: <span style="color:royalblue">7일</span>
 
 
@@ -15,8 +15,8 @@
 <br>
 
 ## 일론머스크의 한마디
-	 오늘의 작업은 프로젝트 산타의 홍보와 사용자 참여 증진에 중점을 두고 있습니다.
-	 기술적인 개발이 마무리되고, 이제는 서비스의 성장과 확산을 위한 단계에 접어들었습니다.
+	 오늘의 활동은 프로젝트 산타의 홍보에 중점을 두면서도
+	 기술적인 지식의 확장을 추구하는 균형 잡힌 접근법을 보여줍니다.
 
 - - -
 
