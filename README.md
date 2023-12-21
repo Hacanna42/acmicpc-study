@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">12월 20일</span>
-### 학습 노트 제출: <span style="color:red">38일</span>
-### 현재 탈락 기부금: <span style="color:red">620,000원</span>
+### 최근 제출: <span style="color:red">12월 21일</span>
+### 학습 노트 제출: <span style="color:red">39일</span>
+### 현재 탈락 기부금: <span style="color:red">610,000원</span>
 ### 휴가 일수: <span style="color:royalblue">7일</span>
 
 
@@ -15,8 +15,9 @@
 <br>
 
 ## 일론머스크의 한마디
-	 오늘의 활동은 SW 마에스트로 준비와 알고리즘 학습을 병행하는 전략적인 접근을 보여줍니다.
-	 알고리즘 문제 해결 능력과 C++ 언어에 대한 이해는 앞으로의 프로그래밍 경력에 큰 자산이 될 것입니다.
+	 오늘의 활동은 알고리즘에 대한 깊은 이해와 다양한 문제 해결 방법에 대한 탐구를 보여줍니다.
+	 특히, 각 문제에 대한 상세한 분석과 그 해결 과정에서의 학습은
+	 더 높은 수준의 문제 해결 능력으로 이어질 것입니다.
 - - -
 
 
