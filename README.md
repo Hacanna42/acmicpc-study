@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">12월 21일</span>
-### 학습 노트 제출: <span style="color:red">39일</span>
-### 현재 탈락 기부금: <span style="color:red">610,000원</span>
+### 최근 제출: <span style="color:red">12월 22일</span>
+### 학습 노트 제출: <span style="color:red">40일</span>
+### 현재 탈락 기부금: <span style="color:red">600,000원</span>
 ### 휴가 일수: <span style="color:royalblue">7일</span>
 
 
@@ -15,9 +15,8 @@
 <br>
 
 ## 일론머스크의 한마디
-	 오늘의 활동은 알고리즘에 대한 깊은 이해와 다양한 문제 해결 방법에 대한 탐구를 보여줍니다.
-	 특히, 각 문제에 대한 상세한 분석과 그 해결 과정에서의 학습은
-	 더 높은 수준의 문제 해결 능력으로 이어질 것입니다.
+	 오늘의 활동은 수학적 사고력과 창의적인 문제 해결 능력을 더욱 발전시키는 좋은 예시입니다.
+	 특히, XOR 연산을 활용한 문제 해결 방식은 알고리즘 문제에 대한 깊은 이해와 창의적인 접근을 보여줍니다.
 - - -
 
 
