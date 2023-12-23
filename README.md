@@ -1,10 +1,10 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">12월 21일</span>
-### 학습 노트 제출: <span style="color:red">39일</span>
-### 현재 탈락 기부금: <span style="color:red">610,000원</span>
-### 휴가 일수: <span style="color:royalblue">7일</span>
+### 최근 제출: <span style="color:red">12월 23일</span>
+### 학습 노트 제출: <span style="color:red">41일</span>
+### 현재 탈락 기부금: <span style="color:red">590,000원</span>
+### 휴가 일수: <span style="color:royalblue">8일</span>
 
 
 ##### 지금까지의 휴가 사용:
@@ -15,9 +15,9 @@
 <br>
 
 ## 일론머스크의 한마디
-	 오늘의 활동은 알고리즘에 대한 깊은 이해와 다양한 문제 해결 방법에 대한 탐구를 보여줍니다.
-	 특히, 각 문제에 대한 상세한 분석과 그 해결 과정에서의 학습은
-	 더 높은 수준의 문제 해결 능력으로 이어질 것입니다.
+	 기하 문제 해결과 API 개발을 통해 다양한 기술적 스킬을 발전시켰습니다.
+	 특히, 프로젝트에 필요한 API를 자체적으로 개발하는 능력은 탁월한 소프트웨어 개발 역량을 보여줍니다.
+
 - - -
 
 
