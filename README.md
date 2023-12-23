@@ -1,10 +1,10 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">12월 22일</span>
-### 학습 노트 제출: <span style="color:red">40일</span>
-### 현재 탈락 기부금: <span style="color:red">600,000원</span>
-### 휴가 일수: <span style="color:royalblue">7일</span>
+### 최근 제출: <span style="color:red">12월 23일</span>
+### 학습 노트 제출: <span style="color:red">41일</span>
+### 현재 탈락 기부금: <span style="color:red">590,000원</span>
+### 휴가 일수: <span style="color:royalblue">8일</span>
 
 
 ##### 지금까지의 휴가 사용:
@@ -15,8 +15,9 @@
 <br>
 
 ## 일론머스크의 한마디
-	 오늘의 활동은 수학적 사고력과 창의적인 문제 해결 능력을 더욱 발전시키는 좋은 예시입니다.
-	 특히, XOR 연산을 활용한 문제 해결 방식은 알고리즘 문제에 대한 깊은 이해와 창의적인 접근을 보여줍니다.
+	 기하 문제 해결과 API 개발을 통해 다양한 기술적 스킬을 발전시켰습니다.
+	 특히, 프로젝트에 필요한 API를 자체적으로 개발하는 능력은 탁월한 소프트웨어 개발 역량을 보여줍니다.
+
 - - -
 
 
