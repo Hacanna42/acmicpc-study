@@ -1,10 +1,10 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">12월 23일</span>
-### 학습 노트 제출: <span style="color:red">41일</span>
-### 현재 탈락 기부금: <span style="color:red">590,000원</span>
-### 휴가 일수: <span style="color:royalblue">8일</span>
+### 최근 제출: <span style="color:red">12월 24일</span>
+### 학습 노트 제출: <span style="color:red">42일</span>
+### 현재 탈락 기부금: <span style="color:red">580,000원</span>
+### 휴가 일수: <span style="color:royalblue">9일</span>
 
 
 ##### 지금까지의 휴가 사용:
@@ -15,8 +15,8 @@
 <br>
 
 ## 일론머스크의 한마디
-	 기하 문제 해결과 API 개발을 통해 다양한 기술적 스킬을 발전시켰습니다.
-	 특히, 프로젝트에 필요한 API를 자체적으로 개발하는 능력은 탁월한 소프트웨어 개발 역량을 보여줍니다.
+	 알고리즘 문제 해결 능력과 프로젝트 개발 및 마무리 능력이 모두 뛰어납니다.
+	 특히 시간 복잡도에 대한 이해는 알고리즘의 효율성을 높이는 데 큰 도움이 됩니다.
 
 - - -
 
