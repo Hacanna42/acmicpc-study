@@ -5,7 +5,7 @@
 1. 백준 알고리즘 공부
 - [x] Bronze I ✅ 2023-12-19
 - [x] Silver V ✅ 2023-12-20
-- [ ] Silver IV
+- [x] Silver IV ✅ 2023-12-26
 - [ ] Silver III
 - [ ] Silver II
 - [ ] Silver I
