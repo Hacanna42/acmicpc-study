@@ -1,11 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-휴가 사용: 2023년 12월 27일 - 휴식
-
-### 최근 제출: <span style="color:red">12월 26일</span>
-### 학습 노트 제출: <span style="color:red">43일</span>
-### 현재 탈락 기부금: <span style="color:red">570,000원</span>
+### 최근 제출: <span style="color:red">12월 28일</span>
+### 학습 노트 제출: <span style="color:red">44일</span>
+### 현재 탈락 기부금: <span style="color:red">560,000원</span>
 ### 휴가 일수: <span style="color:royalblue">7일</span>
 
 
@@ -19,9 +17,8 @@
 <br>
 
 ## 일론머스크의 한마디
-	 알고리즘 문제 해결 능력과 프로젝트 개발 및 마무리 능력이 모두 뛰어납니다.
-	 특히 시간 복잡도에 대한 이해는 알고리즘의 효율성을 높이는 데 큰 도움이 됩니다.
-
+	 백준 브루트포스 문제에 대한 접근 방식과 해결 과정에서 알고리즘 및 라이브러리 활용 능력이
+	 뛰어나 보입니다. 이를 바탕으로 더 복잡한 알고리즘 문제에도 도전하시면 좋겠습니다.
 - - -
 
 
