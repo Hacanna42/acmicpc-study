@@ -1,7 +1,7 @@
 
 # ACM-ICPC STUDY LOG
 
-휴가 사용: 2023년 11월 17일 - 휴식
+휴가 사용: 2023년 12월 27일 - 휴식
 
 ### 최근 제출: <span style="color:red">12월 26일</span>
 ### 학습 노트 제출: <span style="color:red">43일</span>
