@@ -1,4 +1,5 @@
 
+오늘 2023년 12월 30일 휴식: 장염
 # ACM-ICPC STUDY LOG
 
 ### 최근 제출: <span style="color:red">12월 29일</span>
