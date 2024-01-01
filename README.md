@@ -2,9 +2,9 @@
 오늘 2023년 12월 30일 휴식: 장염
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">12월 29일</span>
-### 학습 노트 제출: <span style="color:red">45일</span>
-### 현재 탈락 기부금: <span style="color:red">550,000원</span>
+### 최근 제출: <span style="color:red">1월 1일</span>
+### 학습 노트 제출: <span style="color:red">46일</span>
+### 현재 탈락 기부금: <span style="color:red">540,000원</span>
 ### 휴가 일수: <span style="color:royalblue">7일</span>
 
 
@@ -18,8 +18,9 @@
 <br>
 
 ## 일론머스크의 한마디
-	 브루트포스 문제 해결과 프로젝트 완성을 통해 여러분의 논리적 사고력과 개발 능력이 한층 발전했음을
-	 보여줍니다. 앞으로 다가올 정렬 알고리즘 문제에도 이러한 능력을 잘 활용하시길 기대합니다.
+	 새로운 알고리즘에 대한 깊은 이해와 문제 해결 능력을 보여주신 오늘의 학습은 매우 가치 있었습니다.
+	 다가올 남은 문제들에도 이러한 능력을 잘 활용하시길 기대합니다.
+
 - - -
 
 
