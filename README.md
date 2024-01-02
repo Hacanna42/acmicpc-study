@@ -1,10 +1,9 @@
 
-오늘 2023년 12월 30일 휴식: 장염
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">1월 1일</span>
-### 학습 노트 제출: <span style="color:red">46일</span>
-### 현재 탈락 기부금: <span style="color:red">540,000원</span>
+### 최근 제출: <span style="color:red">1월 2일</span>
+### 학습 노트 제출: <span style="color:red">47일</span>
+### 현재 탈락 기부금: <span style="color:red">530,000원</span>
 ### 휴가 일수: <span style="color:royalblue">7일</span>
 
 
