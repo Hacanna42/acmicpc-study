@@ -2,6 +2,9 @@
 #####  <span style="color:red"><strong>Deadline:</strong></span> `2024.02.20`
 
 
+![[Pasted image 20240104014247.png]]
+
+
 1. 백준 알고리즘 공부
 - [x] Bronze I ✅ 2023-12-19
 - [x] Silver V ✅ 2023-12-20
