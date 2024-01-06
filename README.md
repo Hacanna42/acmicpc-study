@@ -1,10 +1,10 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">1월 5일</span>
-### 학습 노트 제출: <span style="color:red">50일</span>
-### 현재 탈락 기부금: <span style="color:red">500,000원</span>
-### 휴가 일수: <span style="color:royalblue">7일</span>
+### 최근 제출: <span style="color:red">1월 6일</span>
+### 학습 노트 제출: <span style="color:red">51일</span>
+### 현재 탈락 기부금: <span style="color:red">490,000원</span>
+### 휴가 일수: <span style="color:royalblue">8일</span>
 
 
 ##### 지금까지의 휴가 사용:
@@ -17,9 +17,9 @@
 <br>
 
 ## 일론머스크의 한마디
-	 오늘의 학습은 자료구조와 알고리즘 문제 해결력, 그리고 수학적 개념의 활용에서 뛰어난 성과를 
-	 여주셨습니다. queuestack 문제에 대한 해결 방식은 특히 인상적이며,
-	 다양한 심화 문제들을 통해 알고리즘과 수학적 사고의 균형을 잘 맞추셨습니다.
+	오늘의 학습은 자료구조 선택과 시간 복잡도에 대한 깊은 이해를 바탕으로 한 문제 해결에서
+	높은 수준을 보여주셨습니다. 특히, 자료구조의 특성을 이해하고
+	적절한 상황에서 활용한 점이 매우 인상적입니다.
 
 - - -
 
