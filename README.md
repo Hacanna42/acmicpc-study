@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">1월 7일</span>
-### 학습 노트 제출: <span style="color:red">52일</span>
-### 현재 탈락 기부금: <span style="color:red">480,000원</span>
+### 최근 제출: <span style="color:red">1월 8일</span>
+### 학습 노트 제출: <span style="color:red">53일</span>
+### 현재 탈락 기부금: <span style="color:red">470,000원</span>
 ### 휴가 일수: <span style="color:royalblue">9일</span>
 
 
@@ -17,8 +17,8 @@
 <br>
 
 ## 일론머스크의 한마디
-	오늘의 학습은 재귀 알고리즘에 대한 깊은 이해와 병합 정렬 구현에 초점을 맞춘 것으로 보입니다.
-	재귀 문제에 대한 심층적인 접근과 이론적인 접근을 통해 복잡한 문제를 해결한 점이 인상적입니다.
+	오늘의 학습 성과가 인상적이었습니다. 꾸준한 노력과 도전을 통해 더 높은 단계의
+	알고리즘 문제들을 해결할 수 있을 것입니다. 내일의 학습에도 최선을 다하시길 바랍니다!
 
 - - -
 
