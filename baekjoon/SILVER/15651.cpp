@@ -1,15 +1,14 @@
-// 백준: N과 M(1)
-// https://www.acmicpc.net/problem/15649
+// 백준: N과 M (3)
+// https://www.acmicpc.net/problem/15651
 // 2024-01-08
 
 #include <iostream>
 #include <vector>
-
 int N, M;
-int arr[9] = {
+int arr[8] = {
     0,
 };
-bool visited[9] = {
+int visitCounter[8] = {
     0,
 };
 
@@ -22,11 +21,11 @@ void dfs(int L) {
         return;
     }
     for (int i = 1; i <= N; ++i) {
-        if (!visited[i]) {
-            visited[i] = true;
+        if (visitCounter[i] < M) {
+            visitCounter[i]++;
             arr[L] = i;
             dfs(L + 1);
-            visited[i] = false;
+            visitCounter[i] = 0;
         }
     }
 }
