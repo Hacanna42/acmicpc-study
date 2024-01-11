@@ -12,7 +12,7 @@
 - [x] Silver III ✅ 2024-01-01
 - [x] Silver II ✅ 2024-01-03
 - [x] Silver I ✅ 2024-01-05
-- [ ] Gold V
+- [x] Gold V ✅ 2024-01-10
 - [ ] Gold IV
 - [ ] Gold III
 - [ ] Gold II
