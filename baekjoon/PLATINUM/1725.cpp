@@ -1,7 +1,7 @@
-// 백준: 히스토그램에서 가장 큰 직사각형
-// https://www.acmicpc.net/problem/6549
-// 2024-01-15
-// - 첫 플래티넘 문제.
+// 백준: 히스토그램
+// https://www.acmicpc.net/problem/1725
+// 2024-01-16
+// 6549와 동일한 문제. (same problem issue로 레이팅 안들어가서 재제출)
 
 /* 처음엔 복잡한 분할정복 구현이라고 생각했다.
 가장 짧은 막대 L에 대해 max(answer, L*SIZE)을 하고
@@ -29,45 +29,42 @@ int main() {
     std::ios_base::sync_with_stdio(false);
     std::cin.tie(nullptr);
     std::cout.tie(nullptr);
-    while (true) {
-        int N;
-        std::cin >> N;
-        if (N == 0) break;
+    int N;
+    std::cin >> N;
 
-        std::vector<long long> heights(N, 0);
-        for (int i = 0; i < N; ++i) {
-            std::cin >> heights[i];
-        }
+    std::vector<long long> heights(N, 0);
+    for (int i = 0; i < N; ++i) {
+        std::cin >> heights[i];
+    }
 
-        std::stack<long long> stack;
-        long long answer = 0;
+    std::stack<long long> stack;
+    long long answer = 0;
 
-        for (int i = 0; i < N; ++i) {
-            while (!stack.empty() && heights[stack.top()] > heights[i]) {
-                long long height = heights[stack.top()];
-                stack.pop();
-                // 최대 값으로 설정
-                long long width = i;
-                if (!stack.empty()) {
-                    width = i - stack.top() - 1;
-                }
-                answer = std::max(answer, height * width);
-            }
-            stack.push(i);
-        }
-
-        // 남아있는 막대 계산
-        while (!stack.empty()) {
+    for (int i = 0; i < N; ++i) {
+        while (!stack.empty() && heights[stack.top()] > heights[i]) {
             long long height = heights[stack.top()];
             stack.pop();
-            long long width = N;
+            // 최대 값으로 설정
+            long long width = i;
             if (!stack.empty()) {
-                width = N - stack.top() - 1;
+                width = i - stack.top() - 1;
             }
             answer = std::max(answer, height * width);
         }
-
-        std::cout << answer << "\n";
+        stack.push(i);
     }
+
+    // 남아있는 막대 계산
+    while (!stack.empty()) {
+        long long height = heights[stack.top()];
+        stack.pop();
+        long long width = N;
+        if (!stack.empty()) {
+            width = N - stack.top() - 1;
+        }
+        answer = std::max(answer, height * width);
+    }
+
+    std::cout << answer;
     return 0;
 }
