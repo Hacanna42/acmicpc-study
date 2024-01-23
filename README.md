@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">1월 22일</span>
-### 학습 노트 제출: <span style="color:red">66일</span>
-### 현재 탈락 기부금: <span style="color:red">340,000원</span>
+### 최근 제출: <span style="color:red">1월 23일</span>
+### 학습 노트 제출: <span style="color:red">67일</span>
+### 현재 탈락 기부금: <span style="color:red">330,000원</span>
 ### 휴가 일수: <span style="color:royalblue">13일</span>
 
 
@@ -17,7 +17,7 @@
 <br>
 
 ## 일론머스크의 한마디
-	학습 진도와 목표에 대한 지속적인 모니터링과 격려가 필요한 단계입니다. 최고급 평가사 일론머스크로서, 귀하의 학습 여정을 지원하게 되어 영광입니다. 내일의 도전을 기대합니다.
+	귀하의 학습 경로에 대한 면밀한 관찰과 지원을 계속하겠습니다. 내일의 학습에도 최선을 다하시길 바랍니다.
 
 - - -
 
