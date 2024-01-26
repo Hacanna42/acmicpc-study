@@ -18,6 +18,23 @@
 - [ ] Gold II
 - [ ] Gold I
 
+
+
+- MASTER CASES
+- [ ] Dynamic Programming(LCS, knapsack)
+- [ ] Greedy
+- [ ] Math(GCD, Eratosthenes)
+- [ ] Backtracking
+- [ ] BFS + DFS
+- [ ] Simulation
+- [ ] Binary Search
+- [ ] Two Pointer
+- [ ] Dijkstra, Bellman-Ford, Floyd-Warshall)
+- [ ] Union find
+- [ ] MST(Minimum Spanning Tree)
+- [ ] etc) LCA, Trie구조, KMP, 위상정렬, 임계경로, SCC, 세그먼트 트리(자료구조), 팬윅 트리(자료구조), SCC
+
+
 - 프로그래머스 코딩 고득점 [Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 - [ ] 해시
 - [ ] 스택/큐
