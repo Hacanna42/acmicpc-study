@@ -73,5 +73,10 @@
 - [ ] 노션에 포트폴리오 작성
 
 
+#### 추천받은 문제
+7577 by sshs29hanul
+2418 by inwooleeme
+
+
 
 Thanks for inspiring me [@i4song](https://velog.io/@dnr6054/SW-Maestro-Checklist)
