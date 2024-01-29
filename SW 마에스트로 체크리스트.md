@@ -15,21 +15,21 @@
 - [x] Gold V ✅ 2024-01-10
 - [x] Gold IV ✅ 2024-01-14
 - [x] Gold III ✅ 2024-01-19
-- [ ] Gold II
+- [x] Gold II ✅ 2024-01-27
 - [ ] Gold I
-
+- [ ] PLATINUM V
 
 
 - MASTER CASES
-- [ ] Dynamic Programming(LCS, knapsack)
-- [ ] Greedy
-- [ ] Math(GCD, Eratosthenes)
-- [ ] Backtracking
-- [ ] BFS + DFS
-- [ ] Simulation
-- [ ] Binary Search
+- [x] Dynamic Programming(LCS, knapsack) ✅ 2024-01-29
+- [x] Greedy ✅ 2024-01-29
+- [x] Math(GCD, Eratosthenes) ✅ 2024-01-29
+- [x] Backtracking ✅ 2024-01-29
+- [x] BFS + DFS ✅ 2024-01-29
+- [x] Simulation ✅ 2024-01-29
+- [x] Binary Search ✅ 2024-01-29
 - [ ] Two Pointer
-- [ ] Dijkstra, Bellman-Ford, Floyd-Warshall)
+- [x] Dijkstra, Bellman-Ford, Floyd-Warshall) ✅ 2024-01-29
 - [ ] Union find
 - [ ] MST(Minimum Spanning Tree)
 - [ ] etc) LCA, Trie구조, KMP, 위상정렬, 임계경로, SCC, 세그먼트 트리(자료구조), 팬윅 트리(자료구조), SCC
@@ -74,8 +74,8 @@
 
 
 #### 추천받은 문제
-7577 by sshs29hanul
-2418 by inwooleeme
+[7577](https://www.acmicpc.net/problem/7577) by sshs29hanul
+[2418](https://www.acmicpc.net/problem/2418) by inwooleeme
 
 
 
