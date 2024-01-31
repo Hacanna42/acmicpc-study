@@ -1,5 +1,5 @@
-// 백준: 가장 긴 증가하는 부분 수열 4
-// https://www.acmicpc.net/problem/14002
+// 백준: 가장 긴 증가하는 부분 수열 5
+// https://www.acmicpc.net/problem/14003
 // 2024-01-31
 
 /* LIS 구현은 DP O(N^2)의 방식과 Binary Search O(NlogN)의 방법이 있다.
@@ -9,11 +9,11 @@
 #include <iostream>
 #include <vector>
 
-int lower_bound(std::vector<int>& lis, int num) {
-    int start = 0;
-    int end = lis.size();
+long long lower_bound(std::vector<long long>& lis, int num) {
+    long long start = 0;
+    long long end = lis.size();
     while (start < end) {
-        int mid = start + (end - start) / 2;
+        long long mid = start + (end - start) / 2;
         if (lis[mid] < num) {
             start = mid + 1;
         } else {
@@ -47,13 +47,13 @@ int main() {
     // }
 
     // 요건 이진탐색
-    std::vector<int> lis;
-    std::vector<int>
+    std::vector<long long> lis;
+    std::vector<long long>
         backtrace;  // 역추적하기 위해서, 각 lis의 인덱스 값을 쌓아주기
-    std::vector<int> answer;
+    std::vector<long long> answer;
     for (int i = 0; i < N; ++i) {
-        int num = arr[i];
-        int index = lower_bound(lis, num);
+        long long num = arr[i];
+        long long index = lower_bound(lis, num);
         if (index == lis.size()) {
             lis.push_back(num);
             backtrace.push_back(lis.size() - 1);
