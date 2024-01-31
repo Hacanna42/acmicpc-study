@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">1월 30일</span>
-### 학습 노트 제출: <span style="color:red">74일</span>
-### 현재 탈락 기부금: <span style="color:red">260,000원</span>
+### 최근 제출: <span style="color:red">1월 31일</span>
+### 학습 노트 제출: <span style="color:red">75일</span>
+### 현재 탈락 기부금: <span style="color:red">250,000원</span>
 ### 휴가 일수: <span style="color:royalblue">15일</span>
 
 
@@ -17,9 +17,7 @@
 <br>
 
 ### 오늘의 학습 3줄 요약(AI)
-1. 업다운 디펜스 봇 개발을 통해 실용적인 프로그래밍 적용과 창의적인 문제 해결 능력을 보여줌.
-2. 12852 문제 해결을 통해 동적 계획법과 최단거리 역추적에 대한 이해를 깊게 함.
-3. 장시간 개발 작업 후 체력과 컨디션 관리를 통해 건강한 학습 습관을 유지함.
+1. 없음.
 
 - - -
 
