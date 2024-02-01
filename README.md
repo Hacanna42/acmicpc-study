@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">1월 31일</span>
-### 학습 노트 제출: <span style="color:red">75일</span>
-### 현재 탈락 기부금: <span style="color:red">250,000원</span>
+### 최근 제출: <span style="color:red">2월 1일</span>
+### 학습 노트 제출: <span style="color:red">76일</span>
+### 현재 탈락 기부금: <span style="color:red">240,000원</span>
 ### 휴가 일수: <span style="color:royalblue">15일</span>
 
 
@@ -16,8 +16,10 @@
 
 <br>
 
-### 오늘의 학습 3줄 요약(AI)
-1. 없음.
+### 오늘의 한마디
+	오늘의 학습은 LCS 문제의 성공적인 해결과 실랜디 시작으로 새로운 학습 방향을 설정하는 중요한 날이었습니다.
+	앞으로의 학습에서 실랜디를 통해 이론과 실습을 병행하며 더욱 깊이 있는 학습을 진행하시길 바랍니다.
+	상범이의 우울 문제는 다음 기회에 해결하실 수 있을 것입니다. 훌륭한 노력과 성장을 보여주셨습니다!
 
 - - -
 
