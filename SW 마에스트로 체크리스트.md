@@ -28,7 +28,7 @@
 - [x] BFS + DFS ✅ 2024-01-29
 - [x] Simulation ✅ 2024-01-29
 - [x] Binary Search ✅ 2024-01-29
-- [ ] Two Pointer
+- [x] Two Pointer ✅ 2024-02-02
 - [x] Dijkstra, Bellman-Ford, Floyd-Warshall) ✅ 2024-01-29
 - [ ] Union find
 - [ ] MST(Minimum Spanning Tree)
