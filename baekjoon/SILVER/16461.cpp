@@ -55,6 +55,9 @@ int calculate(double _freq_A, double _freq_B, char _current_channel, double _tar
 
     // 1. 만약 이미 A, B 주파수 중 하나가 목표와 일치한다면, ch_swap_count 반환
     int ch_swap_count = (((freq_A == target_freq && _current_channel == 'B') || (freq_B == target_freq && _current_channel == 'A')) ? 1 : 0);
+    if (freq_A == target_freq && freq_B == target_freq) {
+        return 0;
+    }
     if (freq_A == target_freq || freq_B == target_freq) {
         return ch_swap_count;
     }

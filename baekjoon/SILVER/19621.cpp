@@ -6,14 +6,15 @@
 #include <iostream>
 #include <utility>
 #include <vector>
-std::vector<std::pair<std::pair<int, int>, int> >
-    timetable;  // <<시작 시간, 종료시간>, 인원>
+std::vector<std::pair<std::pair<int, int>, int>> timetable; // <<시작 시간, 종료시간>, 인원>
 std::vector<int> dp;
 int N;
 
 int maxMan(int index) {
-    if (index >= N) return 0;
-    if (dp[index] != -1) return dp[index];
+    if (index >= N)
+        return 0;
+    if (dp[index] != -1)
+        return dp[index];
 
     int take = timetable[index].second + maxMan(index + 2);
     int skip = maxMan(index + 1);
@@ -33,11 +34,7 @@ int main() {
         timetable.push_back({{start, end}, num});
     }
 
-    std::sort(timetable.begin(), timetable.end(),
-              [](const std::pair<std::pair<int, int>, int>& a,
-                 const std::pair<std::pair<int, int>, int>& b) {
-                  return a.first.second < b.first.second;
-              });
+    std::sort(timetable.begin(), timetable.end(), [](const std::pair<std::pair<int, int>, int> &a, const std::pair<std::pair<int, int>, int> &b) { return a.first.second < b.first.second; });
 
     std::cout << maxMan(0);
     return 0;

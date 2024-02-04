@@ -1,11 +1,10 @@
-#include <unistd.h>
-
 #include <iostream>
-
 int main() {
-    std::cout << "hello";
-    fflush(stdout);
-    sleep(5);
-    printf("SLEEPED");
-    return (0);
+    int N;
+    std::cout << "셀 숫자를 입력하세요." << std::endl;
+    std::cin >> N;
+    for (int i = 0; i < N; ++i) {
+        std::cout << i + 1 << " ";
+    }
+    return 0;
 }

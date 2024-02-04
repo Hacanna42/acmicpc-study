@@ -13,7 +13,7 @@ int main() {
     int N;
     std::cin >> N;
     std::vector<std::vector<int>> matrix(N, std::vector<int>(N));
-    std::vector<std::vector<int>> dp(N, std::vector<int>(N, 0));
+    std::vector<std::vector<long long>> dp(N, std::vector<long long>(N, 0));
     for (int i = 0; i < N; ++i) {
         for (int j = 0; j < N; ++j) {
             int temp;
