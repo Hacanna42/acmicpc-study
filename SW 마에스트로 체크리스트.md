@@ -50,7 +50,7 @@
 
 2. 전략 (SQL + ~~WEB~~)
 - SQL + WEB
-- [ ] SQL 강좌 [정독](https://www.youtube.com/watch?v=vgIc4ctNFbc)
+- [ ] SQL 강좌 [정독](https://www.youtube.com/watch?v=vgIc4ctNFbc) (20:00~ )
 
 - 프로그래머스 SQL 고득점 [Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 - [ ] SELECT

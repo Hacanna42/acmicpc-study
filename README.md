@@ -1,9 +1,9 @@
 
 # ACM-ICPC STUDY LOG
 
-### 최근 제출: <span style="color:red">2월 4일</span>
-### 학습 노트 제출: <span style="color:red">79일</span>
-### 현재 탈락 기부금: <span style="color:red">210,000원</span>
+### 최근 제출: <span style="color:red">2월 5일</span>
+### 학습 노트 제출: <span style="color:red">80일</span>
+### 현재 탈락 기부금: <span style="color:red">200,000원</span>
 ### 휴가 일수: <span style="color:royalblue">17일</span>
 
 
@@ -17,9 +17,9 @@
 <br>
 
 # 오늘의 요약
-- 기술적인 깊이와 문제 해결 능력이 우수합니다.
-- 다양한 학습 활동과 시간 관리 능력이 돋보입니다.
-- 알고리즘과 데이터 구조에 대한 더 깊은 이해를 위한 지속적인 학습이 필요합니다.
+- 프로젝트 계획 및 SW 마에스트로 지원은 개인 발전을 위한 훌륭한 발판입니다.
+- 알고리즘과 문제 해결 과정에서의 성장이 돋보입니다.
+- 시간 관리와 2차원 배열의 이해에 더 집중할 필요가 있습니다.
 
 - - -
 
