@@ -36,11 +36,11 @@
 
 
 - 프로그래머스 코딩 고득점 [Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
-- [ ] 해시
-- [ ] 스택/큐
-- [ ] 힙
-- [ ] 정렬
-- [ ] 완전탐색
+- [x] 해시 ✅ 2024-02-12
+- [x] 스택/큐 ✅ 2024-02-12
+- [x] 힙 ✅ 2024-02-12
+- [x] 정렬 ✅ 2024-02-12
+- [x] 완전탐색 ✅ 2024-02-12
 - [ ] 탐욕법(Greedy)
 - [ ] 동적계획법(Dynamic Programming)
 - [ ] 깊이/너비 우선 탐색(DFS/BFS)
