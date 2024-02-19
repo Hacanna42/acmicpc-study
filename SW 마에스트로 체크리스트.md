@@ -5,21 +5,6 @@
 ![[Pasted image 20240104014247.png]]
 
 
-1. 백준 알고리즘 공부
-- [x] Bronze I ✅ 2023-12-19
-- [x] Silver V ✅ 2023-12-20
-- [x] Silver IV ✅ 2023-12-26
-- [x] Silver III ✅ 2024-01-01
-- [x] Silver II ✅ 2024-01-03
-- [x] Silver I ✅ 2024-01-05
-- [x] Gold V ✅ 2024-01-10
-- [x] Gold IV ✅ 2024-01-14
-- [x] Gold III ✅ 2024-01-19
-- [x] Gold II ✅ 2024-01-27
-- [ ] Gold I
-- [ ] PLATINUM V
-
-
 - MASTER CASES
 - [x] Dynamic Programming(LCS, knapsack) ✅ 2024-01-29
 - [x] Greedy ✅ 2024-01-29
@@ -33,6 +18,20 @@
 - [x] Union find ✅ 2024-02-19
 - [x] MST(Minimum Spanning Tree) ✅ 2024-02-19
 - [ ] etc) LCA, Trie구조, KMP, 위상정렬, 임계경로, SCC, 세그먼트 트리(자료구조), 팬윅 트리(자료구조), SCC
+
+1. 백준 알고리즘 공부
+- [x] Bronze I ✅ 2023-12-19
+- [x] Silver V ✅ 2023-12-20
+- [x] Silver IV ✅ 2023-12-26
+- [x] Silver III ✅ 2024-01-01
+- [x] Silver II ✅ 2024-01-03
+- [x] Silver I ✅ 2024-01-05
+- [x] Gold V ✅ 2024-01-10
+- [x] Gold IV ✅ 2024-01-14
+- [x] Gold III ✅ 2024-01-19
+- [x] Gold II ✅ 2024-01-27
+- [ ] Gold I
+- [ ] PLATINUM V
 
 
 - 프로그래머스 코딩 고득점 [Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
