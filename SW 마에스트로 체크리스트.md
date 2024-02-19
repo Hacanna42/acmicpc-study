@@ -1,5 +1,5 @@
 
-#####  <span style="color:red"><strong>Deadline:</strong></span> `2024.02.20`
+#####  <span style="color:red"><strong>Deadline:</strong></span> `2024.02.23`
 
 
 ![[Pasted image 20240104014247.png]]
@@ -30,8 +30,8 @@
 - [x] Binary Search ✅ 2024-01-29
 - [x] Two Pointer ✅ 2024-02-02
 - [x] Dijkstra, Bellman-Ford, Floyd-Warshall) ✅ 2024-01-29
-- [ ] Union find
-- [ ] MST(Minimum Spanning Tree)
+- [x] Union find ✅ 2024-02-19
+- [x] MST(Minimum Spanning Tree) ✅ 2024-02-19
 - [ ] etc) LCA, Trie구조, KMP, 위상정렬, 임계경로, SCC, 세그먼트 트리(자료구조), 팬윅 트리(자료구조), SCC
 
 
@@ -50,10 +50,10 @@
 
 2. 전략 (SQL + ~~WEB~~)
 - SQL + WEB
-- [ ] SQL 강좌 [정독](https://www.youtube.com/watch?v=vgIc4ctNFbc) (20:00~ )
+- [x] SQL 강좌 [정독](https://www.youtube.com/watch?v=vgIc4ctNFbc) (20:00~ ) ✅ 2024-02-19
 
 - 프로그래머스 SQL 고득점 [Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
-- [ ] SELECT
+- [x] SELECT ✅ 2024-02-19
 - [ ] SUM, MAX, MIN
 - [ ] GROUP BY
 - [ ] IS NULL
@@ -63,7 +63,7 @@
 
 
 3. 정보 모으기
-- [ ] 전년도 합격 후기 모두 훑기
+- [x] 전년도 합격 후기 모두 훑기 ✅ 2024-02-19
 - [ ] 이전 기수 출제 알고리즘 문제 정리
 - [x] 해당 기수 소마 준비 오픈 카톡방 들어가기 ✅ 2024-02-05
 - [ ] 코딩 테스트 복기 Slack 오픈 스페이스 들어가기
