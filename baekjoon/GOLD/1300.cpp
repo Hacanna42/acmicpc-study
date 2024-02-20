@@ -19,7 +19,8 @@ int main() {
         // 각 층에서 mid보다 작은 수의 개수는, 나머지의 몫과 동일하다.
         for (long long i = 1; i <= N; ++i) {
             long long temp = mid / i;
-            if (temp > N) temp = N;
+            if (temp > N)
+                temp = N;
             count += temp;
         }
 
