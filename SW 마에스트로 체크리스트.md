@@ -43,7 +43,7 @@
 - [x] 탐욕법(Greedy) ✅ 2024-02-16
 - [x] 동적계획법(Dynamic Programming) ✅ 2024-02-16
 - [x] 깊이/너비 우선 탐색(DFS/BFS) ✅ 2024-02-19
-- [ ] 이분탐색
+- [x] 이분탐색 ✅ 2024-02-23
 - [ ] 그래프
 
 
@@ -53,12 +53,12 @@
 
 - 프로그래머스 SQL 고득점 [Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 - [x] SELECT ✅ 2024-02-19
-- [ ] SUM, MAX, MIN
-- [ ] GROUP BY
-- [ ] IS NULL
-- [ ] JOIN
-- [ ] String, Date
-- [ ] ⏬ 삼중 조인, 서브 쿼리, 함수, 자연 조인
+- [x] SUM, MAX, MIN ✅ 2024-02-23
+- [x] GROUP BY ✅ 2024-02-23
+- [x] IS NULL ✅ 2024-02-23
+- [x] JOIN ✅ 2024-02-23
+- [x] String, Date ✅ 2024-02-23
+- [x] ⏬ 삼중 조인, 서브 쿼리, 함수, 자연 조인 ✅ 2024-02-23
 
 
 3. 정보 모으기
