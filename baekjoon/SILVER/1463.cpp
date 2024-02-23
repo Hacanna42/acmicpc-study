@@ -8,7 +8,7 @@ dp[i] = min(dp[i/3], dp[i/2], dp[i-1]) + 1;
 */
 #include <algorithm>
 #include <iostream>
-int* memo;
+int *memo;
 int dp(int n) {
     memo[1] = 0;
     memo[2] = 1;
