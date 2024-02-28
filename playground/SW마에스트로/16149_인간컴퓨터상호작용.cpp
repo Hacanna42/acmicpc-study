@@ -5,8 +5,7 @@ using namespace std;
 
 int main() {
     ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
+    cin.tie(nullptr) cout.tie(nullptr);
     string S;
     getline(cin, S);
     vector<vector<int>> dp(26, vector<int>((S.size() + 1)));
