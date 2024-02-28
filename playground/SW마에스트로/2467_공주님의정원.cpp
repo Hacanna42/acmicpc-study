@@ -5,7 +5,6 @@
 using namespace std;
 /*
 3월 1일부터 11월 30일까지
-
 */
 
 struct Date {
@@ -52,7 +51,7 @@ int main() {
         bool isPossible = false;
         for (int i = idx; i < N; ++i) {
             if ((flowers[i].first.month < current.month) || (flowers[i].first.month == current.month && flowers[i].first.day <= current.day)) {
-                if ((flowers[i].second.month > current.month) || (flowers[i].second.month == current.month && flowers[i].second.day >= current.day)) {
+                if ((flowers[i].second.month > current.month) || (flowers[i].second.month == current.month && flowers[i].second.day > current.day)) {
                     // 선택 가능한 유효한 꽃
                     if (flowers[i].second.month > maxEnd.month) {
                         maxEnd.month = flowers[i].second.month;
@@ -77,7 +76,7 @@ int main() {
         count++;
         current.month = maxEnd.month;
         current.day = maxEnd.day;
-        if ((current.month > 11) || (current.month == 11 && current.day == 30)) {
+        if (current.month > 11) {
             cout << count;
             return 0;
         }
