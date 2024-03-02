@@ -1,5 +1,5 @@
 
-#####  <span style="color:red"><strong>Deadline:</strong></span> `2024.02.23`
+# <span style="color:red"><strong>종료: 1차 합격</strong></span>
 
 
 ![[Pasted image 20240104014247.png]]
