@@ -14,7 +14,7 @@
 int V, E, K;
 std::vector<int> dist;
 std::vector<bool> visited;
-std::vector<std::vector<std::pair<int, int> > > adj;
+std::vector<std::vector<std::pair<int, int>>> adj;
 
 /*
 Ignite. 시작 노드와 직접적으로 연결된 모든 정점들의 거리를 비교해서 업데이트
@@ -27,7 +27,7 @@ Ignite. 시작 노드와 직접적으로 연결된 모든 정점들의 거리를
 
 void dijkstra(int start) {
     // 점화
-    dist[K] = 0;  // 시작 정점의 거리는 0
+    dist[K] = 0; // 시작 정점의 거리는 0
 
     // 이거 어차피 아래 while에서 처리됨 **
     // // 시작 노드와 직접적으로 연결된 모든 정점의 거리를 dist에 업데이트
@@ -40,9 +40,7 @@ void dijkstra(int start) {
     // 단계 시작
     // 현재까지 알려진 최단 거리 정점을 효율적으로 뽑기 위해 priority_queue를
     // 사용함.
-    std::priority_queue<std::pair<int, int>, std::vector<std::pair<int, int> >,
-                        std::greater<std::pair<int, int> > >
-        pq;  // pair: 거리, 정점 순서
+    std::priority_queue<std::pair<int, int>, std::vector<std::pair<int, int>>, std::greater<std::pair<int, int>>> pq; // pair: 거리, 정점 순서
 
     pq.push({0, start});
 
@@ -51,10 +49,10 @@ void dijkstra(int start) {
         int current = pq.top().second;
         pq.pop();
 
-        if (visited[current]) continue;  // 방문했다면, 스킵
-        visited[current] = true;         // 방문 표시
-        for (const std::pair<int, int>& pair :
-             adj[current]) {  // pair: 정점, 거리 순서
+        // if (visited[current])
+        //     continue;                                          // 방문했다면, 스킵
+        // visited[current] = true;                               // 방문 표시
+        for (const std::pair<int, int> &pair : adj[current]) { // pair: 정점, 거리 순서
             int next = pair.first;
             int nextDistance = distance + pair.second;
             if (nextDistance < dist[next]) {
@@ -72,7 +70,7 @@ int main() {
     std::cin >> V >> E >> K;
     dist.assign(V + 1, INT_MAX);
     visited.assign(V + 1, false);
-    adj.assign(V + 1, std::vector<std::pair<int, int> >());
+    adj.assign(V + 1, std::vector<std::pair<int, int>>());
     for (int i = 0; i < E; ++i) {
         int u, v, w;
         std::cin >> u >> v >> w;

@@ -20,7 +20,7 @@ int main() {
     }
 
     long long pairs = 0;
-    std::stack<std::pair<int, int> > stack;
+    std::stack<std::pair<int, int>> stack;
     for (int i = 0; i < N; ++i) {
         int count = 1;
         // 앞 사람이 나보다 키가 작거나 같으면 서로 볼 수 있다
