@@ -1,44 +1,51 @@
-// 우체국 1
+// 백준: 우체국 1
 // https://www.acmicpc.net/problem/18442
-// 2024-04-08
+// 2024-04-09
+// 복습 2회차 - 실력 다지기..
 
 #include <algorithm>
+#include <cmath>
+#include <cstddef>
 #include <iostream>
 #include <limits.h>
 #include <vector>
-
 using namespace std;
 typedef long long ll;
 
-ll V, P, L; // 마을 개수, 우체국 개수, 길의 길이
 vector<ll> town;
-ll known_min = LLONG_MAX;
 vector<ll> best_comb;
+ll known_shortest_distance = LLONG_MAX;
+ll V, P, L; // 마을 개수, 우체국 개수, 총 길이
 
-ll calculateDistance(const vector<ll> &postOffices) {
-    ll totalDistance = 0;
-    for (int i = 0; i < V; ++i) {
-        ll minDistance = LLONG_MAX;
-        for (int j = 0; j < postOffices.size(); ++j) {
-            ll distance = min(abs(town[i] - postOffices[j]), L - abs(town[i] - postOffices[j]));
-            minDistance = min(minDistance, distance);
+ll getDistances(vector<ll> &town, vector<ll> &postOffices) {
+    ll sum_distance = 0;
+    for (size_t i = 0; i < town.size(); ++i) {
+        ll cur_pos = town[i];
+        ll known_shortest = LLONG_MAX;
+        for (size_t j = 0; j < postOffices.size(); ++j) {
+            ll cur_compare = postOffices[j];
+            ll dist = min(abs(cur_pos - cur_compare), L - abs(cur_pos - cur_compare));
+            if (dist < known_shortest) {
+                known_shortest = dist;
+            }
         }
-        totalDistance += minDistance;
+        sum_distance += known_shortest;
     }
-    return totalDistance;
+
+    return sum_distance;
 }
 
-void dfs(int start, int depth, vector<ll> &postOffices) {
+void dfs(ll start, ll depth, vector<ll> &postOffices) {
     if (depth == P) {
-        ll currentDistance = calculateDistance(postOffices);
-        if (currentDistance < known_min) {
-            known_min = currentDistance;
+        ll dist = getDistances(town, postOffices);
+        if (dist < known_shortest_distance) {
             best_comb = postOffices;
+            known_shortest_distance = dist;
         }
         return;
     }
 
-    for (int i = start; i < V; ++i) {
+    for (ll i = start; i < V; ++i) {
         postOffices.push_back(town[i]);
         dfs(i + 1, depth + 1, postOffices);
         postOffices.pop_back(); // 백트래킹
@@ -49,15 +56,15 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
     cin >> V >> P >> L;
-    town.resize(V);
-    for (int i = 0; i < V; ++i) {
+    town.assign(V, 0);
+    for (ll i = 0; i < V; ++i) {
         cin >> town[i];
     }
 
     vector<ll> postOffices;
     dfs(0, 0, postOffices);
 
-    cout << known_min << "\n";
+    cout << known_shortest_distance << "\n";
     for (const auto next : best_comb) {
         cout << next << " ";
     }
