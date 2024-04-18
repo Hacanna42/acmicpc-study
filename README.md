@@ -1,9 +1,5 @@
 
 # ACM-ICPC STUDY LOG
-
-### 최근 제출: <span style="color:red">4월 7일</span>
-### 학습 노트 제출: <span style="color:red">106일</span>
-### 현재 탈락 기부금: <span style="color:red">100,000원</span>
 <br>
 **공지: 3월 2일을 마지막으로 이 프로젝트는 종료되었습니다. 도전이 끝난 것이지, 스터디 노트 제출을 그만두는 것은 아닙니다.**
 
