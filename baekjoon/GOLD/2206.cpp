@@ -41,7 +41,8 @@ int bfs() {
         answer_time = time;
 
         // 도착했는지 체크
-        if (current_x == M - 1 && current_y == N - 1) return answer_time;
+        if (current_x == M - 1 && current_y == N - 1)
+            return answer_time;
 
         // 가능한 4개의 경로
         for (int i = 0; i < 4; ++i) {
@@ -51,8 +52,7 @@ int bfs() {
             // valid check
             if (next_x >= 0 && next_y >= 0 && next_x < M && next_y < N) {
                 // 벽을 부수지 않을 경우 (빈 경로의 경우)
-                if (matrix[next_y][next_x] == 0 &&
-                    !visited[next_y][next_x][!item]) {
+                if (matrix[next_y][next_x] == 0 && !visited[next_y][next_x][!item]) {
                     q.push({next_x, next_y, item, time + 1});
                     visited[next_y][next_x][!item] = true;
                 }
@@ -72,8 +72,7 @@ int main() {
     std::cout.tie(nullptr);
     std::cin >> N >> M;
     matrix.assign(N, std::vector<int>(M, 0));
-    visited.assign(
-        N, std::vector<std::vector<bool>>(M, std::vector<bool>(2, false)));
+    visited.assign(N, std::vector<std::vector<bool>>(M, std::vector<bool>(2, false)));
 
     std::cin.ignore();
     std::string line;

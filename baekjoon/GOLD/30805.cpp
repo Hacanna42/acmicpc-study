@@ -47,6 +47,7 @@ int main() {
     cin.tie(nullptr);
     int a_len, b_len; // 수열 A, B 길이
     cin >> a_len;
+
     vector<int> A(a_len);
     for (int i = 0; i < a_len; ++i) {
         cin >> A[i];
