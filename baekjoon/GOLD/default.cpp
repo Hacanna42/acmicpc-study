@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    cout << "This is test message!!";
+    cout << "ipad github gui test";
     return 0;
 }
