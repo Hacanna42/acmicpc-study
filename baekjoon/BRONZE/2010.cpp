@@ -12,12 +12,12 @@ int main() {
     int N;
     cin >> N;
     int plug_sum = 0;
-    for (int i=0;i<N;++i) {
+    for (int i = 0; i < N; ++i) {
         int t;
         cin >> t;
         plug_sum += t;
     }
 
-    cout << plug_sum - (N-1); 
+    cout << plug_sum - (N - 1);
     return 0;
 }
