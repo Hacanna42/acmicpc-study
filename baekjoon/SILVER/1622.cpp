@@ -11,12 +11,15 @@
 #include <vector>
 #include <string>
 #include <algorithm>
+#include <cassert>
 using namespace std;
 
 int main() {
-    while (!cin.eof()) {
-        string A, B;
-        cin >> A >> B;
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    string A, B;
+    while (cin >> A >> B && !cin.fail()) {
         int size_A = A.size();
         int size_B = B.size();
         vector<bool> visited(B.size(), false);
