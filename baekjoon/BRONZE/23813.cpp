@@ -1,32 +1,33 @@
 // 백준: 회전
 // https://www.acmicpc.net/problem/23813
-// 2024-08-24
-// 미완
+// 2024-08-25
 
 #include <cmath>
 #include <iostream>
-#include <string>
+#include <vector>
 using namespace std;
 typedef long long ll;
 
-int getFirstDigit(int n) {
-    while (n >= 10) {
-        n /= 10;
-    }
-    return n;
-}
-
 int main() {
-    int N;
+    ll N;
     cin >> N;
-    int len = to_string(N).length() - 1;
-    int cur = N;
+
+    int original_N = N; // 원본 N 저장
+
+    // 자리수 계산
+    int digitCount = 0;
+    int temp = N;
+    while (temp > 0) {
+        ++digitCount;
+        temp /= 10;
+    }
 
     ll answer = 0;
-    // while (true) {
-    cur -= pow(10, len) * getFirstDigit(cur);
-    cout << cur;
+    // 회전
+    do {
+        answer += N;
+        N = (N / 10) + (N % 10) * pow(10, digitCount - 1);
+    } while (N != original_N);
 
-    // }
-    return 0;
+    cout << answer;
 }
