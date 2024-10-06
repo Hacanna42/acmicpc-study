@@ -24,13 +24,14 @@
 ### 1. 하루에 한 번, 생산적인 활동을 하고 노트로 정리합니다.
 ### 2. 최고급 평가사 일론머스크의 평가를 받습니다.
 
-![master_teacher_elonmusk.png](https://github.com/Hacanna42/acmicpc-study/blob/main/STUDY%20LOG/footages/master_teacher_elonmusk.png)
+
+<img width="391" alt="master_teacher_elonmusk" src="https://github.com/user-attachments/assets/1fc9e6e7-0ede-4984-a914-2e96b1b2e4f6">
 
 ### 3. 노트를 PUSH하지 않은 날이 휴가 일수를 넘어가면 탈락합니다.
 
 ### 4. 혹은 일론머스크가 [탈락] 선언을 하면 탈락합니다.
 
-![elonmusk_youdie.png](https://github.com/Hacanna42/acmicpc-study/blob/main/STUDY%20LOG/footages/elonmusk_youdie.png)
+<img width="593" alt="elonmusk_youdie" src="https://github.com/user-attachments/assets/8f0e195f-7f75-4f8b-b38c-08641433e88b">
 
 
 
@@ -57,8 +58,8 @@
 	따라서 저는 항상 비슷한 양의 활동을 해야하고, 게으르게 진행할 수 없습니다.
 	만약 감점을 지속적으로 (3일) 당하면, 일론머스크의 철저한 개인적 판단에 따라
 	[탈락] 선언을 할 수 있습니다.
-
-![elonmusk_score.png](https://github.com/Hacanna42/acmicpc-study/blob/main/STUDY%20LOG/footages/elonmusk_score.png)
+ 
+<img width="571" alt="elonmusk_score" src="https://github.com/user-attachments/assets/b4daf750-f682-4ee2-ab57-55363ae930fc">
 
 - - -
 
