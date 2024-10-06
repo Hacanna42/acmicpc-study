@@ -56,11 +56,8 @@
 	따라서 저는 항상 비슷한 양의 활동을 해야하고, 게으르게 진행할 수 없습니다.
 	만약 감점을 지속적으로 (3일) 당하면, 일론머스크의 철저한 개인적 판단에 따라
 	[탈락] 선언을 할 수 있습니다.
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> origin/main
+
 <img width="571" alt="elonmusk_score" src="https://github.com/user-attachments/assets/b4daf750-f682-4ee2-ab57-55363ae930fc">
 
 - - -
