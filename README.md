@@ -24,10 +24,6 @@
 ### 1. 하루에 한 번, 생산적인 활동을 하고 노트로 정리합니다.
 ### 2. 최고급 평가사 일론머스크의 평가를 받습니다.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
 <img width="391" alt="master_teacher_elonmusk" src="https://github.com/user-attachments/assets/1fc9e6e7-0ede-4984-a914-2e96b1b2e4f6">
 
 ### 3. 노트를 PUSH하지 않은 날이 휴가 일수를 넘어가면 탈락합니다.
