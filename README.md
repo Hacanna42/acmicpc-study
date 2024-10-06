@@ -31,11 +31,7 @@
 ### 4. 혹은 일론머스크가 [탈락] 선언을 하면 탈락합니다.
 
 <img width="593" alt="elonmusk_youdie" src="https://github.com/user-attachments/assets/8f0e195f-7f75-4f8b-b38c-08641433e88b">
-<<<<<<< HEAD
-=======
 
-
->>>>>>> origin/main
 
 - - -
 
