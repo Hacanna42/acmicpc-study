@@ -15,5 +15,9 @@ int main() {
         cin >> tanghuru[i];
     }
 
+    for (int start = 0; start < tanghuru.size(); ++start) {
+        int kind_count = 0;
+        for (int end = start + 1; end)
+    }
     return 0;
 }
