@@ -1,6 +1,7 @@
 // 백준: 과일 탕후루
 // https://www.acmicpc.net/problem/30804
 // 2025-02-12
+// 우테코 7기 파이팅!
 
 #include <iostream>
 #include <vector>
