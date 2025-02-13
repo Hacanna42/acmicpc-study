@@ -17,5 +17,10 @@ int main() {
 
     int start = 0;
     int end = N - 1;
+
+    while (true) {
+        if
+    }
+    // 가운데부터 투포인터를 시작해야 할 것 같다는 생각이...
     return 0;
 }
