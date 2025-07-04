@@ -11,9 +11,7 @@
 // 분할
 std::vector<long long> group1, group2;
 
-void findSubsets(long long L, long long sum,
-                 const std::vector<long long>& items,
-                 std::vector<long long>& subsets) {
+void findSubsets(long long L, long long sum, const std::vector<long long> &items, std::vector<long long> &subsets) {
     if (L == items.size()) {
         subsets.push_back(sum);
         return;
@@ -27,6 +25,7 @@ int main() {
     std::ios_base::sync_with_stdio(false);
     std::cin.tie(nullptr);
     std::cout.tie(nullptr);
+
     int N, C;
     std::cin >> N >> C;
     for (int i = 0; i < N; ++i) {
